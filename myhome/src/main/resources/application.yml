@@ -4,13 +4,13 @@ spring:
     hikari:
       driver-class-name: net.sf.log4jdbc.sql.jdbcapi.DriverSpy
       jdbc-url: jdbc:log4jdbc:oracle:thin:@localhost:1521:xe
-      username: ENC(UnNfpd0gJ1Lma/8BH/ulZw==)
-      password: ENC(Od9fYj1m3KO7o7mxsiJfIw==)
+      username: ENC(J1qThj64/GTg86l/CHSZ/Q==)
+      password: ENC(PUAhJ/6sNZ4tJrzv1CiyPQ==)
   mail:
     host: smtp.gmail.com
     port: 587
-    username: ENC(F9LrJ47J7s/ZhRY1ElfHcikVcKpPirbDCW1jtr+Hnso=)
-    password: ENC(+vqwbhnQzr6ntqsq1hBWc/e6EB9vWJEw2331dhXRFbI=)
+    username: ENC(SHHdH7I4nTttgvT+lUfSP2X2ICuMnfjsz0oXUS80VuA=)
+    password: ENC(vT6xY9P45vutiSXRKoo33j3m4dlGUy7FGTBPU5SJWNA=)
     properties:
       mail:
         smtp:
